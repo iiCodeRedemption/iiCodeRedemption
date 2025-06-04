@@ -4,5 +4,5 @@
 - 📫 How to reach me:
    - 📧 [javiermdeb@gmail.com](mailto:javiermdeb@gmail.com)
    - Discord: @mrsevyu
-- 🌱 I'm currently learning: [Python](https://www.python.org/), [Java](https://www.java.com/), [Next.js](https://nextjs.org/)
+- 🌱 I'm currently learning: [Python](https://www.python.org/), [Java](https://www.java.com/), [Next.js](https://nextjs.org/), ZK (https://www.zkoss.org/).
 - ⚒️ My most recent project: [LayPAC](https://github.com/iiCodeRedemption/LayPAC)
